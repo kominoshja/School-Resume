@@ -48,6 +48,7 @@ This was my first big event. I decided to give an intro to Firefox OS, which was
 **Topic: "Firefox OS"**
 
 `Link <https://wiki.openlabs.cc/faqja/OSCAL_2015/Axhenda>`_
+
 Note: The wiki has a typo where my name is written as Boris Boudini
 
 
@@ -64,7 +65,7 @@ Note: The wiki has a typo where my name is written as Boris Boudini
 
 
 `Tech Speakers - Tirana Training #2 <https://reps.mozilla.org/e/tech-speakers-tirana-training-2/>`_
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
  Mozilla Tech Speakers aims to increase developer awareness and adoption of the Web, Firefox, and Mozilla through a strong community-driven speaker development program. Now we are bringing Tech Speaker lessons, mentors and Mozillians to the local community, offering great insight and experiences to newcomers and late arrivals. The workshop will consist of short lightning talk sessions, followed by feedback, tips on how to stand, non verbal communication, slides creation and much more.
 
@@ -76,7 +77,7 @@ Note: The wiki has a typo where my name is written as Boris Boudini
 
 
 `Linux Weekend <https://wiki.openlabs.cc/faqja/Linux_Weekend_Tirana_2017>`_
---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
  Linux Weekend is a brand new conference in the city with two days totally dedicated to Linux operating system and all it’s distros. Talks, workshops, infobooths and install fests, all at the same place, Faculty of Information Technology, Politechnic University of Tirana. Inspiring talks and workshops will be presented by very passionate Linux boys and girls, some of which will travel from abroad to come and join us on both days of the conference. From 09:30 AM to 05:00 PM all the participants will be able to attend the presentations they find more attractive to them, to grab a copy of their favorite distro (and the right help to install it) and also the opportunity to get some information on how to be part and contribute in the different open source project that will have their own info-booths during the conference.
 
@@ -91,7 +92,7 @@ Note: The wiki has a typo where my name is written as Boris Boudini
 
 
 `FOSScamp Syros 2017 <https://wiki.openlabs.cc/faqja/FOSScamp_Syros_2017>`_
---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
  The second edition of the summer adventure to spend with free open source geeks from communities all around the Balkans and Europe aside the beach. A week of co-creation for the commons of the beautiful island of Syros. Meet new people, exchange ideas, get inspired, collaborate to organize this un-conference together with the ultimate goal of growing our communities and spreading the free open source communities in every corner of our region. This year we will take 360′ photos of the island, publish them in Wikimedia commons and through a Mozilla WebVR workshop will learn how to create Web VR experiences with the images.
 
@@ -106,7 +107,7 @@ Note: The wiki has a typo where my name is written as Boris Boudini
 
 
 `Fosdem 2019 <https://fosdem.org/2019/>`_
-----------------------------------------
+-----------------------------------------
 
  FOSDEM is a free and non-commercial event organised by the community for the community. The goal is to provide free and open source software developers and communities a place to meet to:
   * get in touch with other developers and projects;
@@ -141,7 +142,7 @@ OSCAL (Open Source Conference Albania) is the first annual conference in Albania
 OSCAL (Open Source Conference Albania) is the first annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 30 years ago.
 
 `Linux Weekend <https://wiki.openlabs.cc/faqja/Linux_Weekend_Tirana_2017>`_
---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Linux Weekend is a brand new conference in the city with two days totally dedicated to Linux operating system and all it’s distros. Talks, workshops, infobooths and install fests, all at the same place, Faculty of Information Technology, Politechnic University of Tirana.
 Inspiring talks and workshops will be presented by very passionate Linux boys and girls, some of which will travel from abroad to come and join us on both days of the conference. From 09:30 AM to 05:00 PM all the participants will be able to attend the presentations they find more attractive to them, to grab a copy of their favorite distro (and the right help to install it) and also the opportunity to get some information on how to be part and contribute in the different open source project that will have their own info-booths during the conference.
 

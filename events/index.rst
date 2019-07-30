@@ -23,15 +23,16 @@ Events I've spoken at
 
 Mozilla Weekend 2015 is where everything started for me. I attended it not knowing much about neither the community nor the open source world.
 
- I gave a speech there about the importance of staying vigilant while browsing the internet, and the risks one takes when they fall for a scam.
+I gave a speech there about the importance of staying vigilant while browsing the internet, and the risks one takes when they fall for a scam.
 
+ Organized by the Mozilla Albania Community and 2 Reps in Albania, Elio Qoshi and Redon Skikuli, Mozilla Weekend aims to bring the community closer together by working, socializing and sharing ideas. It also aims into bringing interested people into the community and showing them what Mozilla is about, in order to grow the local community even more It will be held in a well located university in Tirana, for 2 days, 6 hours a day.
 **Age: 14**
 
 **Speech Duration: 10 minutes**
 
 **Topic: "The importance of staying vigilant while browsing the internet"**
-Photo:
 
+.. image:: ../images/mozweekend.jpg
 
 
 `OSCAL 2015 <https://wiki.openlabs.cc/faqja/OSCAL_2015>`_

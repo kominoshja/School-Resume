@@ -32,7 +32,7 @@ So I decided to get a raspberry pi and put the open source media manager KODI on
 
 Recycled server
 ---------------
-My family has collected a lot of hardware over the year (The huge advancements of Technology were to blame) Furthermore, I hate throwing out hardware that can run, no matter how old it is.
+My family has collected a lot of hardware over the year (The huge advancements of technology were to blame). Furthermore, I hate throwing out hardware that can run, no matter how old it is.
 
 So I decided to grab my family's first laptop, which had a maximum memory capacity of 1GB and installed Ubuntu 16.04 CLI edition.
 

@@ -30,7 +30,6 @@ build:html:
   - git clone https://git.budini.xyz/project/sphinx/offline-version.git _themes/sphinx_rtd_theme
   - make html
   - cd _build/html
-  -
   - rm -rf objects.inv .doctrees _raw_sources sphinx-bootstrap-directives .buildinfo
   - zip -r documentation.zip .
   - mv documentation.zip ../..

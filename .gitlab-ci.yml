@@ -1,0 +1,73 @@
+stages:
+  - build
+  - deploy
+
+build:html:
+  stage: build
+  script:
+  # Install basic needs
+  - apk --no-cache add git make py-pip python-dev zip
+  # Install fonts
+  - apk --no-cache add ttf-dejavu
+  # Install pillow dependencies
+  - apk --update add libxml2-dev libxslt-dev libffi-dev gcc musl-dev libgcc openssl-dev curl
+  - apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev
+  # Install pillow
+  - pip install Pillow
+  # Install basic needs
+  - apk --no-cache add git make py-pip python-dev zip
+  # Install fonts
+  - apk --no-cache add ttf-dejavu
+  #rest
+  - pip install sphinx recommonmark markdown m2r rst2pdf sphinxprettysearchresults
+  - git clone https://github.com/Blendify/sphinx-bootstrap-directives.git
+  - cd sphinx-bootstrap-directives
+  - python setup.py build
+  - python setup.py install
+  - cd docs
+  - rm -Rf source
+  - cd ../..
+  - git clone https://git.collective68.tech/works/read-the-docs/collective68/offline-version.git _themes/sphinx_rtd_theme
+  - make html
+  - cd _build/html
+  - rm -rf objects.inv .doctrees _raw_sources sphinx-bootstrap-directives .buildinfo
+  - zip -r documentation.zip .
+  - mv documentation.zip ../..
+  artifacts:
+    paths:
+    - documentation.zip
+
+pages:
+  stage: deploy
+  script:
+  # Install basic needs
+  - apk --no-cache add git make py-pip python-dev zip
+  # Install fonts
+  - apk --no-cache add ttf-dejavu
+  # Install pillow dependencies
+  - apk --update add libxml2-dev libxslt-dev libffi-dev gcc musl-dev libgcc openssl-dev curl
+  - apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev  
+  # Install pillow
+  - pip install Pillow
+  #rest
+  - pip install sphinx recommonmark markdown m2r rst2pdf sphinxprettysearchresults
+  - git clone https://github.com/Blendify/sphinx-bootstrap-directives.git
+  - cd sphinx-bootstrap-directives
+  - python setup.py build
+  - python setup.py install
+  - cd docs
+  - rm -Rf source
+  - cd ../..
+  - git clone https://git.collective68.tech/works/read-the-docs/collective68/online-version.git _themes/sphinx_rtd_theme
+  - make html
+  - sphinx-build -b pdf . _build/html/
+  - mv _build/html public
+  - mv documentation.zip public
+  - rm -rf public/objects.inv public/.doctrees public/_raw_sources public/sphinx-bootstrap-directives public/.buildinfo
+  dependencies:
+    - build:html
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

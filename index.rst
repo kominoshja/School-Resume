@@ -7,9 +7,13 @@ Boris Budini
 Hi there!
 
 My name is Boris Budini, and in this site you'll find a list of
+
 * Projects I did
+
 * Events I volunteered at, spoke at, or organized
+
 * Places where I used to work
+
 * Letters of recommendation and testimonials
 
 This resume is not supposed to be a used as a reference for those who seek to hire me, but only  as a reference for universities that want to have a better understanding of who I am and what I do

@@ -158,28 +158,28 @@ Events I've organized
 --------------------------------------------------------------------------------------
  Wiki Weekend is an annual event which aims to be the contact point for old and new Wikimedians from Albania. The event was first organized in 2014 and during the years hundreds of Wikipeda articles have been created, improved and translated in the Albanian language, hundreds of photos have been uploaded in Wikimedia Commons and tens of new contributors have joined the project.
 
-`Mozilla WebVR workshop #1 <https://wiki.openlabs.cc/faqja/Mozilla_WebVR_Camp_nr._1 >`_
-----------------------------------------------------------------------------------------
+`Mozilla WebVR workshop #1 <https://wiki.openlabs.cc/faqja/Mozilla_WebVR_Camp_nr._1>`_
+--------------------------------------------------------------------------------------
  WebVR Workshop, held at the Open Labs Hackerspace in Tirana, Albania Our aim is to increase awareness around WebVR and A-Frame.
 
 `Mozilla WebVR workshop #2 <https://wiki.openlabs.cc/faqja/Mozilla_WebVR_Workshop_2#2>`_
------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
  WebVR Workshop, held at the Open Labs Hackerspace in Tirana, Albania Our aim is to increase awareness around WebVR and A-Frame.
 
 `Mozilla Common Voice <https://wiki.openlabs.cc/faqja/Mozilla_Common_Voice_Workshop>`_
------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
  On this pilot workshop for the Common Voice project, hackerspace members will contribute with their voice, do reviews and submit public domain text to improve the database of the project.
 
 `LulzBot 3D Printing Workshop <https://wiki.openlabs.cc/faqja/LulzBot_3D_Printing_Workshop>`_
-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
  Workshop on how to use LulzBot 3D printer
 
 `CryptoParty Tirana 2017 <https://wiki.openlabs.cc/faqja/Cryptoparty_Tirana_2017>`_
-------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
  CryptoParty is a decentralized movement with constantly happening activities in the entire world. The goal of this movement is sharing as much knowledge to as many individuals as possible on how to protect ourselves in the digital world. This worldwide effort introduces the basis of cryptography both in theory and practice, such as encrypted communication, prevention of espionage when navigating on the internet, anonymity on Tor network, cryptography with public key, storage encryption, Virtual Private Networks (VPN) etc. The project consists of a series of workshops free and open for everyone. To join this worldwide effort and to inform about the dangers of the digital world, the importance of online privacy and exchange of practical knowledge to protect our privacy, Open Labs with the support of Arjen Kamphuis and Ardian Haxha have organized CryptoParty Tirana.
 
 `CopyFest <https://wiki.openlabs.cc/faqja/CopyFest_2018>`_
------------------------------------------------------------
+----------------------------------------------------------
  The negative stigma of remixing, copying and modifying can still be noticed in today’s society where the internet is a key part of our life which is nothing alike with the 20th century. Instead, back then creating and exploring was a privilege which many people did not have. With the diversity of cultures, creations and characteristics, a revolution in the field of author’s rights and work modifications is needed. All these are topics which we want to address in the first edition of Copy Fest, a weekend which celebrates public domain, Copyleft & Creative Commons licenses, and copying, remixing and creative freedom on internet. Movie screening, debates and a round table with actors of creative industry with talks about Creative Commons licenses.
 
 `OSCAL 2018 <https://wiki.openlabs.cc/faqja/OSCAL_2018>`_
@@ -187,13 +187,13 @@ Events I've organized
  OSCAL (Open Source Conference Albania) is the first annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge, a global movement that originally started more than 30 years ago.
 
 `SysAdm <https://wiki.openlabs.cc/faqja/SysAdm>`_
---------------------------------------------------
+-------------------------------------------------
  7 workshops on how to get started on being a SysAdm
 
 `Identihub Workshop <https://wiki.openlabs.cc/faqja/Identihub_workshop>`_
---------------------------------------------------------------------------
+-------------------------------------------------------------------------
  Identihub is open Source brand and visual assets hosting software which can be self-hosted as well.
 
 `Switching.social translation spree <https://wiki.openlabs.cc/faqja/Switching.social_-_platformat_q%C3%AB_respektojn%C3%AB_privat%C3%ABsin%C3%AB_ton%C3%AB>`_
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
  Website hosting a list of ethical, easy-to-use and privacy-conscious alternatives

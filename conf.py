@@ -11,9 +11,9 @@ sys.path.insert(0, os.path.abspath(os.path.join('../..', 'sphinx-bootstrap-direc
 # GENERAL CONFIGURATION
 # -----------------------------------------------------------------------------
 
-project = u'Aftesi.info'
+project = u'Resume'
 copyright = u''
-authors = u"UNDP Albania"
+authors = u"Boris Budini"
 master_doc = 'index'
 templates_path = ['_templates']
 extensions = ['m2r', 'rst2pdf.pdfbuilder', 'sphinxprettysearchresults']
@@ -35,7 +35,7 @@ html_theme_options = {
     'display_version': False,
     'style_external_links': True,
     'sticky_navigation': True,
-    'canonical_url': 'https://aftesi.info/docs',
+    'canonical_url': '',
     'logo_only': True
 }
 
@@ -45,7 +45,7 @@ html_theme_options = {
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-html_title = u'Aftesi.info'
+html_title = u'Boris Budini'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -146,7 +146,7 @@ htmlhelp_basename = 'SphinxExampleProjectdoc'
 # ------------------------------------------------------------------------------
 # OPTIONS FOR: PDF Output
 # ------------------------------------------------------------------------------
-pdf_documents = [('index', u'documentation', u'DOCUMENT TITLE', u'Aftesi.info'),]
+pdf_documents = [('index', u'documentation', u'School Resume', u'Boris Budini'),]
 pdf_use_index = False
 pdf_use_coverpage = False
 pdf_stylesheets = ['sphinx','kerning','a4']

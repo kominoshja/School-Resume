@@ -27,9 +27,10 @@ build:html:
   - cd docs
   - rm -Rf source
   - cd ../..
-  - git clone https://git.collective68.tech/works/read-the-docs/collective68/offline-version.git _themes/sphinx_rtd_theme
+  - git clone https://git.budini.xyz/project/sphinx/offline-version.git _themes/sphinx_rtd_theme
   - make html
   - cd _build/html
+  -
   - rm -rf objects.inv .doctrees _raw_sources sphinx-bootstrap-directives .buildinfo
   - zip -r documentation.zip .
   - mv documentation.zip ../..
@@ -46,7 +47,7 @@ pages:
   - apk --no-cache add ttf-dejavu
   # Install pillow dependencies
   - apk --update add libxml2-dev libxslt-dev libffi-dev gcc musl-dev libgcc openssl-dev curl
-  - apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev  
+  - apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev
   # Install pillow
   - pip install Pillow
   #rest
@@ -58,7 +59,7 @@ pages:
   - cd docs
   - rm -Rf source
   - cd ../..
-  - git clone https://git.collective68.tech/works/read-the-docs/collective68/online-version.git _themes/sphinx_rtd_theme
+  - git clone https://git.budini.xyz/project/sphinx/online-version.git _themes/sphinx_rtd_theme
   - make html
   - sphinx-build -b pdf . _build/html/
   - mv _build/html public

@@ -33,10 +33,3 @@ Just like Nextcloud is the alternative to Google Drive, Etherpad is the alternat
 GeoPortal
 ---------
 GeoPortal is a project of Open Labs Hackerspace where the geospatial data provided by the municipality of Tirana can be used to create better online maps of Tirana. While this was initially implemented by Jonathan Beliën, it was then maintained by me
-
-
-
-
-```
-tesssts
-```

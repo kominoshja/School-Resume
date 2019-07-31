@@ -111,6 +111,12 @@ Justin W. Flory
 Testimonials
 ~~~~~~~~~~~~
 
+Redon Skikuli
+-------------
+Open Labs Hackerspace co-founder,  Collective68 co-founder and business developer
+
+Boris has been a member of Collective68 for almost a year now and is a crucial member of our company. Through his hard work he has been able to establish all the infrastructure for Cloud68, our main product which aims the European cloud market by offering open source instances. On  a daily basis his focus is to make sure that at a sysadmin level everything is running smoothly, but he also is engaged in communication of the needs of our customers. I am quite impressed by his ability to learn new things, document them and implement everything that is needed for the project in a professional level that is unusual for his age. I would consider Boris a valuable asset for every organization.
+
 John Sturdy
 -----------
 OpenStreetMap & Makespace - UK

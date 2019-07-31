@@ -6,6 +6,21 @@ Works
 
 Over the course of years, I have managed to be part of various communities. The amount of maintenance I have dedicated to them would count to a part-time job in each of the following items
 
+Collective68
+~~~~~~~~~~~~
+
+Something that I'm really proud of is that I'm part of the Collective68 team. Why am I proud of this?
+
+Collective68 is a team of open source professionals that do a lot of (what I deem to be important) work in the open source world.
+
+We do a lot of consulting, but we also have our products that are Cloud68 and CityZen.
+
+Cloud68 offers solopreneurs and SMEs their own open source infrastructure, where they have full control of their data.
+
+CityZen is the privacy aware city navigation application which is available for Android on F-Droid.
+
+Being part of Collective68 allows me to afford my own living expenses, while doing something I love
+
 Open Labs Hackerspace
 ~~~~~~~~~~~~~~~~~~~~~
 

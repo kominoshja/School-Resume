@@ -108,6 +108,36 @@ Warm regards,
 
 Justin W. Flory
 
+Silva Arapi
+-----------
+Nextcloud contributor
+
+Dear Sir/Madam,
+It’s my absolute pleasure to recommend Boris for his application to become part of the
+Canadian Institute of Technology for Computer Science. We have previously worked together
+for various projects and I’ve always been fascinated by his technical skills and his knowledge
+on technology in general.
+I’ve met with Boris at Open Labs Hackerspace, a non-for-profit organization dedicate to
+promote Free Libre Open Source Software, Internet freedom, online privacy and various other
+topics of great social importance. Boris was the youngest member among us, and the most
+curious one. Over the last 4 years he has done an amazing work by contributing with the
+“Online Infra” team, where he helped set up various platforms for use by the community, took
+care for their maintenance and build strong security policies. He has also organized many
+training sessions to share his knowledge with other people, and has great skills when it comes
+to public speaking. Boris was the youngest member of Open Labs (and one of the youngest
+overall) to become a Mozilla Tech Speaker which was a great achievement for his age.
+As we are both contributors of Nextcloud, and open source collaboration and file-sharing
+solution, we have organized various events around this project together, like localization
+sprints, we’ve introduced the platform to people, showed them how to install it on their own
+server, explained the importance of self-hosting and why people should have control over their
+data. Quite unfamiliar topics usually among students and young people, but we had Boris
+among us, who was even younger, and helped us raise awareness on them.
+I sincerely think that Boris will be among the best students of Canadian Institute of
+Technology, and he will have a lot to share there as well, while also learning and proffesionaly
+growing as a computer scientist.
+Warm regards,
+Silva Arapi
+
 Testimonials
 ~~~~~~~~~~~~
 

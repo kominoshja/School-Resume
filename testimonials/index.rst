@@ -1,3 +1,9 @@
+:gitlab_url: https://git.budini.xyz/uncategorized/school-resume/blob/master/testimonials/index.rst
+
+============
+Testimonials
+============
+
 I always feel like you can't take what someone else says about themselves at face value
 
 So I decided to reach out to some of the people I have had the honor of working with and asked them if they could send me some testimonials or letters of recommendation.
@@ -58,7 +64,7 @@ Mozilla Corp.
 
 331 E. Evelyn Ave. Mountain View, CA. 94041 tel 650.903.0800 fax 650.903.0865 www.mozilla.org
 
-`Click here if you want to download the PDF version of this letter <../static/ellis.pdf>`_
+`Click here if you want to download the PDF version of this letter <https://git.budini.xyz/uncategorized/school-resume/raw/master/testimonials/ellis.pdf?inline=false>`_
 
 Justin Flory
 ------------

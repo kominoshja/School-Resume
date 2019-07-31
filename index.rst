@@ -25,6 +25,7 @@ If you wish to download this content, use the dropdown on the bottom-left corner
 .. toctree::
    :maxdepth: 1
 
+   about
    projects/index
    events/index
    work/index

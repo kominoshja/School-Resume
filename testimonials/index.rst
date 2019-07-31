@@ -58,7 +58,7 @@ Mozilla Corp.
 
 331 E. Evelyn Ave. Mountain View, CA. 94041 tel 650.903.0800 fax 650.903.0865 www.mozilla.org
 
-`Click here if you want to download the PDF version of this letter<../testimonials/ellis.pdf>`_
+`Click here if you want to download the PDF version of this letter <../testimonials/ellis.pdf>`_
 
 Justin Flory
 ------------

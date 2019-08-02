@@ -2,32 +2,14 @@ stages:
   - build
   - deploy
 
+
 build:html:
+  image: kominoshja/c68-sphinx:latest
   stage: build
   script:
-  # Install basic needs
-  - apk --no-cache add git make py-pip python-dev zip
-  # Install fonts
-  - apk --no-cache add ttf-dejavu
-  # Install pillow dependencies
-  - apk --update add libxml2-dev libxslt-dev libffi-dev gcc musl-dev libgcc openssl-dev curl
-  - apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev
-  # Install pillow
-  - pip install Pillow
-  # Install basic needs
-  - apk --no-cache add git make py-pip python-dev zip
-  # Install fonts
-  - apk --no-cache add ttf-dejavu
-  #rest
-  - pip install sphinx recommonmark markdown m2r rst2pdf sphinxprettysearchresults
   - git clone https://github.com/Blendify/sphinx-bootstrap-directives.git
-  - cd sphinx-bootstrap-directives
-  - python setup.py build
-  - python setup.py install
-  - cd docs
-  - rm -Rf source
-  - cd ../..
-  - git clone https://git.budini.xyz/project/sphinx/offline-version.git _themes/sphinx_rtd_theme
+  - rm -Rf sphinx-bootstrap-directives/docs/source
+  - git clone https://git.collective68.tech/works/read-the-docs/collective68/offline-version.git _themes/sphinx_rtd_theme
   - make html
   - cd _build/html
   - rm -rf objects.inv .doctrees _raw_sources sphinx-bootstrap-directives .buildinfo
@@ -38,27 +20,12 @@ build:html:
     - documentation.zip
 
 pages:
+  image: kominoshja/c68-sphinx:latest
   stage: deploy
   script:
-  # Install basic needs
-  - apk --no-cache add git make py-pip python-dev zip
-  # Install fonts
-  - apk --no-cache add ttf-dejavu
-  # Install pillow dependencies
-  - apk --update add libxml2-dev libxslt-dev libffi-dev gcc musl-dev libgcc openssl-dev curl
-  - apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev
-  # Install pillow
-  - pip install Pillow
-  #rest
-  - pip install sphinx recommonmark markdown m2r rst2pdf sphinxprettysearchresults
   - git clone https://github.com/Blendify/sphinx-bootstrap-directives.git
-  - cd sphinx-bootstrap-directives
-  - python setup.py build
-  - python setup.py install
-  - cd docs
-  - rm -Rf source
-  - cd ../..
-  - git clone https://git.budini.xyz/project/sphinx/online-version.git _themes/sphinx_rtd_theme
+  - rm -Rf sphinx-bootstrap-directives/docs/source
+  - git clone https://git.collective68.tech/works/read-the-docs/collective68/online-version.git _themes/sphinx_rtd_theme
   - make html
   - sphinx-build -b pdf . _build/html/
   - mv _build/html public
